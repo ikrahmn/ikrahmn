@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:5c4d7d&height=200&section=header&text=Ikram%20Rahmani&fontSize=56&fontColor=e0d4f7&animation=fadeIn&fontAlignY=38&desc=he%2Fhim%20%C2%B7%20Jakarta%2C%20ID&descAlignY=58&descSize=18&descColor=b8a8d4" width="100%"/>
 
-<a href="https://h4.dev">
+<a href="https://ikramrahmani.qzz.io">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=B98EFF&center=true&vCenter=true&width=560&lines=Building+things+that+occasionally+work;Teaching+an+AI+to+gamble+responsibly+(failing);Mapping+trash+bins+so+you+don't+have+to;Currently+debugging+something%2C+probably" />
 </a>
 
@@ -62,7 +62,7 @@ A few things I've shipped:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/h4.dev-1a1a2e?style=for-the-badge&logo=firefox&logoColor=b98eff)](https://h4.dev)
+[![Website](https://img.shields.io/badge/h4.dev-1a1a2e?style=for-the-badge&logo=firefox&logoColor=b98eff)](https://ikramrahmani.qzz.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=b98eff)](https://linkedin.com/in/ikram-rahmani-ba5123346)
 [![YouTube](https://img.shields.io/badge/YouTube-1a1a2e?style=for-the-badge&logo=youtube&logoColor=b98eff)](https://youtube.com/@h4irh)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=b98eff)](https://instagram.com/ikrahmn)
