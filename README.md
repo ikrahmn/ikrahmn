@@ -1,58 +1,75 @@
 <div align="center">
-  
-  <h1>Hi there, I'm Ikram Rahmani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  
-  <h3>Mood-driven coder from Jakarta, ID 🇮🇩</h3>
 
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Building+AI+that's+addicted+to+gambling;Creating+geospatial+apps;Mood-driven+coder+lololol" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:5c4d7d&height=200&section=header&text=Ikram%20Rahmani&fontSize=56&fontColor=e0d4f7&animation=fadeIn&fontAlignY=38&desc=he%2Fhim%20%C2%B7%20Jakarta%2C%20ID&descAlignY=58&descSize=18&descColor=b8a8d4" width="100%"/>
+
+<a href="https://h4.dev">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=B98EFF&center=true&vCenter=true&width=560&lines=Building+things+that+occasionally+work;Teaching+an+AI+to+gamble+responsibly+(failing);Mapping+trash+bins+so+you+don't+have+to;Currently+debugging+something%2C+probably" />
+</a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## About
 
-- 🔭 I’m currently working on cool projects like **[TrashMap](https://github.com/ikrahmn/TrashMap)** and **[blackjack-ai](https://github.com/ikrahmn/blackjack-ai)**.
-- 💼 Check out my [Portfolio](https://ikrahmn.github.io) or find me at h4.dev.
-- 🌱 I’m actively learning and building things using **Python**, **HTML**, and **CSS**.
-- ⚡ Fun fact: I only code when the mood strikes.
+I write code in whatever direction my mood points that day — hence `lks`,
+a Python repo that exists mostly to hold whatever I'm tinkering with at the time.
 
-## 🛠️ Tech Stack
+A few things I've shipped:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- **[blackjack-ai](https://github.com/ikrahmn/blackjack-ai)** — an AI that learned to play blackjack and somehow picked up a gambling habit along the way.
+- **[TrashMap](https://github.com/ikrahmn/TrashMap)** — a community-driven map for finding public trash bins, because Jakarta needed one.
+- **[ikrahmn.github.io](https://ikrahmn.github.io)** — my portfolio, built with plain CSS because frameworks are for people with deadlines.
 
-## 📊 GitHub Stats
+<br/>
+
+## Stack
 
 <div align="center">
-  <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ikrahmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ikrahmn's GitHub stats" />
-  <br/>
-  <!-- Dynamic Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrahmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
 </div>
 
-## 📬 Connect with Me
+<br/>
 
-<p align="left">
-  <a href="https://linkedin.com/in/ikram-rahmani-ba5123346" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ikrahmn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@h4irh" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:kramahmani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ikrahmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b98eff&icon_color=b98eff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrahmn&theme=tokyonight&hide_border=true&background=0d1117&ring=b98eff&fire=b98eff&currStreakLabel=b98eff" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrahmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b98eff&text_color=c9d1d9" height="165"/>
+</div>
+
+<br/>
+
+## Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikrahmn/ikrahmn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikrahmn/ikrahmn/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ikrahmn/ikrahmn/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+> This animation is generated by a GitHub Action (`snake.yml`, included alongside this file). It eats your contribution graph once a day. Setup instructions are below.
+
+<br/>
+
+## Elsewhere
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/h4.dev-1a1a2e?style=for-the-badge&logo=firefox&logoColor=b98eff)](https://h4.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=b98eff)](https://linkedin.com/in/ikram-rahmani-ba5123346)
+[![YouTube](https://img.shields.io/badge/YouTube-1a1a2e?style=for-the-badge&logo=youtube&logoColor=b98eff)](https://youtube.com/@h4irh)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=b98eff)](https://instagram.com/ikrahmn)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=b98eff)](mailto:kramahmani@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c4d7d,100:1a1a2e&height=100&section=footer" width="100%"/>
+</div>
